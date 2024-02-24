@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Màu cho thumb khi switch được bật -->
+    <color name="switchThumbColorOn">#4CAF50</color> <!-- Màu xanh lá -->
+    <!-- Màu cho thumb khi switch được tắt -->
+    <color name="switchThumbColorOff">#F44336</color> <!-- Màu đỏ -->
+    <!-- Màu cho track khi switch được bật -->
+    <color name="switchTrackColorOn">#C8E6C9</color> <!-- Màu xanh lá nhạt -->
+    <!-- Màu cho track khi switch được tắt -->
+    <color name="switchTrackColorOff">#FFCDD2</color> <!-- Màu đỏ nhạt -->
+</resources>
